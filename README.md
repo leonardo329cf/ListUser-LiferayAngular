@@ -72,6 +72,7 @@ Two Liferay Widget based in angular 8 and 12 accessing a jax-rs endpoint to fetc
   import 'core-js/proposals/reflect-metadata';
   
 ## Deploying
-  In the widget folder(liferay/modules/{widget-name} run:
+  In the widget folder(liferay/modules/{widget-name}) run:
+  
     gw clean deploy
 
