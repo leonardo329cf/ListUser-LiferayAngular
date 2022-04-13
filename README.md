@@ -1,9 +1,20 @@
 # ListUser-LiferayAngular
 Two Liferay Widget based in angular 8 and 12 accessing a jax-rs endpoint to fetch user list. Used to show that two Widget with different versions of angular can coexist in liferay.
 
+
 ## How to create a Angular Widget
 
-### Installing tools
+### Tools
+
+  ### Versions
+  JDK SE 1.8.0_311
+  Node v14.15.0
+  NPM 6.14.16
+  Yeoman 4.3.0
+  
+  
+  ### Installing
+  
   Install Yeoman:
   
   npm install -g yeoman
@@ -55,4 +66,9 @@ Two Liferay Widget based in angular 8 and 12 accessing a jax-rs endpoint to fetc
   
   // this is required for Angular Dependency Injection to work properly.
   
-  import 'core-js/proposals/reflect-metadata'; 
+  import 'core-js/proposals/reflect-metadata';
+  
+## Deploying
+  In the widget folder(liferay/modules/{widget-name} run:
+    gw clean deploy
+
