@@ -5,11 +5,9 @@ Two Liferay Widget based in angular 8 and 12 accessing a jax-rs endpoint to fetc
 
 ### Installing tools
   Install Yeoman:
-  
   npm install -g yeoman
 
   Install the Liferay JS Generator:
-  
   npm install -g generator-liferay-js
 
 ## Generating the portlet:
@@ -43,14 +41,11 @@ Two Liferay Widget based in angular 8 and 12 accessing a jax-rs endpoint to fetc
 
 ### For angular 12
   Copy the dependencies used in the angular 12 module:
-  
   https://github.com/leonardo329cf/ListUser-LiferayAngular/blob/7c74f3cd6a68b20cca8cd174d0fec450f68a9700/modules/angular12/package.json
 
 ### For angular 8
   Copy the dependencies used in the angular 8 module:
-  
   https://github.com/leonardo329cf/ListUser-LiferayAngular/blob/7c74f3cd6a68b20cca8cd174d0fec450f68a9700/modules/angular8/package.json
 
   Add to src/polyfills.ts:
-  
   import 'core-js/proposals/reflect-metadata'; // this is required for Angular Dependency Injection to work properly.
