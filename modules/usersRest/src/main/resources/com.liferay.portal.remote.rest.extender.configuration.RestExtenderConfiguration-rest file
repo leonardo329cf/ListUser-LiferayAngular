@@ -1,0 +1,3 @@
+ contextPaths=/users
+
+jaxRsServiceFilterStrings=(component.name=usersRest.application.UsersRestApplication)

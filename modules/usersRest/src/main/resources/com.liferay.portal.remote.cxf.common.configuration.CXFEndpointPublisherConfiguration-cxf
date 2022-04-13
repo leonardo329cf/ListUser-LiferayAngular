@@ -1,0 +1,3 @@
+ contextPath=/users
+
+authVerifierProperties=auth.verifier.BasicAuthHeaderAuthVerifier.urls.includes=*

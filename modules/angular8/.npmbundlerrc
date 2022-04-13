@@ -1,0 +1,11 @@
+{
+	"create-jar": {
+		"output-dir": "dist",
+		"features": {
+			"js-extender": true,
+			"web-context": "/angular8",
+			"configuration": "features/configuration.json"
+		}
+	},
+	"dump-report": true
+}
