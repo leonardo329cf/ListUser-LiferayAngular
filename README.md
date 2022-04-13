@@ -20,14 +20,14 @@ Two Liferay Widget based in angular 8 and 12 accessing a jax-rs endpoint to fetc
   
   Install Yeoman:
   
-  npm install -g yeoman
+    npm install -g yeoman
 
   Install the Liferay JS Generator:
   
-  npm install -g generator-liferay-js
+    npm install -g generator-liferay-js
 
 ## Generating the portlet:
-  yo liferay-js
+    yo liferay-js
   
     For the options yuo can use this:
     
