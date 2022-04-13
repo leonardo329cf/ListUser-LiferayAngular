@@ -1,5 +1,5 @@
 # ListUser-LiferayAngular
-2 Liferay Widget based in angular 8 and 12 accessing a jax-rs endpoint to fetch user list. Used to show that two Widget with different versions of angular can coexist in liferay.
+Two Liferay Widget based in angular 8 and 12 accessing a jax-rs endpoint to fetch user list. Used to show that two Widget with different versions of angular can coexist in liferay.
 
 ## How to create a Angular Widget
 
