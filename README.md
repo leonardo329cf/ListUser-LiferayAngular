@@ -7,10 +7,13 @@ Two Liferay Widget based in angular 8 and 12 accessing a jax-rs endpoint to fetc
 ### Tools
 
   ### Versions
-  JDK SE 1.8.0_311
-  Node v14.15.0
-  NPM 6.14.16
-  Yeoman 4.3.0
+  - JDK SE 1.8.0_311
+  
+  - Node v14.15.0
+  
+  - NPM 6.14.16
+  
+  - Yeoman 4.3.0
   
   
   ### Installing
